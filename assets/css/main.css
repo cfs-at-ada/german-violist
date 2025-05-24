@@ -2337,7 +2337,7 @@ input, select, textarea {
 			}
 
 				#nav > ul > li.active {
-					border-color: rgba(192, 192, 192, 0.35);
+					border-color: #3B353C;
 				}
 
 				#nav > ul > li > a, #nav > ul > li > span {
