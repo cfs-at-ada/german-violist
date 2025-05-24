@@ -2346,7 +2346,7 @@ input, select, textarea {
 					text-decoration: none;
 					border: 0;
 					outline: 0;
-					font-weight: bold;
+					font-weight: bold !important;
 				}
 
 				#nav > ul > li > ul {
