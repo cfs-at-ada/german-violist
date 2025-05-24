@@ -2298,8 +2298,8 @@ input, select, textarea {
 			display: inline-block;
 			margin: 0;
 			height: 21px;
-			border-left: solid 1px #3B353C;
-			border-right: solid 1px #3B353C;
+			border-left: solid 1px #3B353C !important;
+			border-right: solid 1px #3B353C !important;
 		}
 
 			#nav > ul:before, #nav > ul:after {
